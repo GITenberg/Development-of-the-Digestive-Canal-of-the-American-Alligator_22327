@@ -1,0 +1,34 @@
+_repo: Development-of-the-Digestive-Canal-of-the-American-Alligator_22327
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Reese, C. M.
+    gutenberg_agent_id: '25262'
+    url: http://www.gutenberg.org/2009/agents/25262
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reese, A. M. (Albert Moore)
+    alias: Reese, Albert Moore
+    birthdate: 1872
+    gutenberg_agent_id: '25263'
+    url: http://www.gutenberg.org/2009/agents/25263
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2007-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reptiles -- Embryology'
+- !lcc 'QL'
+- !lcsh 'Reptiles -- Digestive organs'
+- !lcsh 'Alligators -- Digestive organs'
+title: Development of the Digestive Canal of the American Alligator
+url: http://www.gutenberg.org/ebooks/22327
